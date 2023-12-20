@@ -1,7 +1,7 @@
 # symptom-propagation-case-study
 This repository contains files for the case study presented in the scientific paper "Symptom propagation in respiratory pathogens of public health concern: a review of the evidence" by Phoebe Asplin, Rebecca Mancy, Thomas Finnie, Fergus Cumming, Matt J. Keeling and Edward M. Hill.
 
-
+[![DOI](https://zenodo.org/badge/733140666.svg)](https://zenodo.org/doi/10.5281/zenodo.10412708)
 
 ## Software
 Model simulations and figure generation were performed using Matlab R2022a.
